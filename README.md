@@ -45,9 +45,12 @@ Two options for selling:
 - display a product inside of an event at which you can buy it
 			  
 		
-Vanzare -> auction 
-	-> fixed price 
-	-> f2f
+Vanzare 
+
+-> auction 
+-> fixed price 
+-> f2f
+
 Target complexity ~ 1 database/table per team member 
 - price
 Entities:
@@ -63,38 +66,38 @@ Entities:
 
 
 All selling Posts:
-	-any user who isn't banned ca make a request to the administrators to sell a product at a fixed price
-	-any admin or moderator can validate or reject a request from a user to sell a product
-	-any user can report the post
-	-when a selling post has received more than 50% of reports from people that have seen the post(more than 10 people), the post will be sent to a moderator to validate
-	-any user has a rating for buying and a different rating for selling
-	-any user with a selling rating over 75% does not need to make a request to the administrators to sell something
-	-any user without a selling rating or a selling rating below 75% will need to make a request to an administrator to sell a product
-	-any users who makes a selling post can choose a minimum buying rating for the users that can buy the product
-	-when a transaction ends the buyer and the seller choose a rating for each other and have the option of writing a review
-	-any user can add tags to their selling post, maximum of 10 tags
+- any user who isn't banned ca make a request to the administrators to sell a product at a fixed price
+- any admin or moderator can validate or reject a request from a user to sell a product
+- any user can report the post
+- when a selling post has received more than 50% of reports from people that have seen the post(more than 10 people), the post will be sent to a moderator to validate
+- any user has a rating for buying and a different rating for selling
+- any user with a selling rating over 75% does not need to make a request to the administrators to sell something
+- any user without a selling rating or a selling rating below 75% will need to make a request to an administrator to sell a product
+- any users who makes a selling post can choose a minimum buying rating for the users that can buy the product
+- when a transaction ends the buyer and the seller choose a rating for each other and have the option of writing a review
+- any user can add tags to their selling post, maximum of 10 tags
 
 Fixed price:
-	-selling with a fixed price decided the by the seller
-	-a fixed price post will be deleted if nobody buys it in 3 months
-	-a buy is confirmed by the seller, it can choose if the transaction goes forward or not
-	-a buy is confirmed after by the buyer
+- selling with a fixed price decided the by the seller
+- a fixed price post will be deleted if nobody buys it in 3 months
+- a buy is confirmed by the seller, it can choose if the transaction goes forward or not
+- a buy is confirmed after by the buyer
 Donations:
-	-any user can make a request to the moderators to be able to request donations
-	-any user can donate
-	-users with a rating over 75% do not need to make requests to the moderators to request donations
+- any user can make a request to the moderators to be able to request donations
+- any user can donate
+- users with a rating over 75% do not need to make requests to the moderators to request donations
 
 Auctions:
-	-a user can create an auction by either making a request to the moderators or having a rating over 75%
-	-the user who creates the auction(A) can set a minimum bidding price
-	-A can set the starting price
-	-A can decide when to end the auction, either by ending it manually or choosing a price at which the auction will end
-	-A can also end the auction by agreeing with a buyer for a certain price
-	-any auction must last at minimum 1 day, and at maximum 30 days
-	-if the auction has less than 30 seconds left, any bid made will reset the time until it expires to 30 seconds
+- a user can create an auction by either making a request to the moderators or having a rating over 75%
+- the user who creates the auction(A) can set a minimum bidding price
+- A can set the starting price
+- A can decide when to end the auction, either by ending it manually or choosing a price at which the auction will end
+- A can also end the auction by agreeing with a buyer for a certain price
+- any auction must last at minimum 1 day, and at maximum 30 days
+- if the auction has less than 30 seconds left, any bid made will reset the time until it expires to 30 seconds
 Display(f2f display an item that will be available to buy at an event):
-	-a user can create a display if they are a moderator for that event
-	-the display specifies the price of the object, the location at which it can be bought and when it will be available to be bought	
+- a user can create a display if they are a moderator for that event
+- the display specifies the price of the object, the location at which it can be bought and when it will be available to be bought	
 	
 	
 	
