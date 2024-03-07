@@ -36,20 +36,13 @@ At a certain number of reports, a users right to sell is withdrawn (over 50% of 
 
 Two options for selling: 
 - a fixed price
-
-    -auction, ends when the seller decides, minimum 1 day, max 1 month(last 30 seconds, for each bid, the timer resets to 30 seconds)
-
-    -seller can decide to end an auction prematurely if they are happy with the bid, they can also cancel
-			 
-    -seller can set automatic end for auction when certain price is hit
-
-    -seller can set starting price, if they want
-
-    -donations are allowed - the minimum price == 0; 
-
-    -buy now feature, if the seller confirms that they agree to end the auction and sell at that price
-		
-    -display a product inside of an event at which you can buy it
+- auction, ends when the seller decides, minimum 1 day, max 1 month(last 30 seconds, for each bid, the timer resets to 30 seconds)
+- seller can decide to end an auction prematurely if they are happy with the bid, they can also cancel
+- seller can set automatic end for auction when certain price is hit
+- seller can set starting price, if they want
+- donations are allowed - the minimum price == 0; 
+- buy now feature, if the seller confirms that they agree to end the auction and sell at that price
+- display a product inside of an event at which you can buy it
 			  
 		
 Vanzare -> auction 
