@@ -1,0 +1,21 @@
+
+
+Data compression module: compress the selling posts
+
+Logging module: would help us with debugging
+
+Data Encryption Module:  encrypt the credit card information and the posts? and also the bids? 
+
+Authentication Module: authenticate if the session hasn't expired (for example taking too long to confirm a sell might lead to need to log into the account again)
+
+Sorting Module: Sort the posts by price? 
+
+Configuration Management Module: this would be to save the preferences of a user i think (like keeping track of wether he uses dark/light mode and other specific options to them) Any ideas how this would be of help to us (maybe their credit card information)?
+
+Caching module: might be useful to quickly get the price when an auction is going on
+
+internationalization module: don't know, maybe automatically convert from ron tu eur? any ideas?
+
+feature toggle module: might be useful if the seller can for exemple toggle on and off a minimum bid price?
+
+basic data validation module: would be great to check if the numbers are valid(written correctly), positive and sanitize the validity of the description of the product?
