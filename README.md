@@ -55,13 +55,11 @@ Target complexity ~ 1 database/table per team member
 
 Entities:
 - groups
-- admin
 - users
-- moderators
 - reports
 - posts
 - groups
-- events
+
 
 
 
@@ -96,9 +94,9 @@ Auctions:
 - any auction must last at minimum 1 day, and at maximum 30 days
 - if the auction has less than 30 seconds left, any bid made will reset the time until it expires to 30 seconds
 
-Display(f2f display an item that will be available to buy at an event):
-- a user can create a display if they are a moderator for that event
-- the display specifies the price of the object, the location at which it can be bought and when it will be available to be bought	
+Donation:
+- a user can create a donation post for any cause
+- the donation post must have a button which, when pressed, will open the website of the charity	
 	
 	
 	
