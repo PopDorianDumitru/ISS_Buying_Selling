@@ -80,10 +80,6 @@ Fixed price:
 - a fixed price post will be deleted if nobody buys it in 3 months
 - a buy is confirmed by the seller, it can choose if the transaction goes forward or not
 - a buy is confirmed after by the buyer
-Donations:
-- any user can make a request to the moderators to be able to request donations
-- any user can donate
-- users with a rating over 75% do not need to make requests to the moderators to request donations
 
 Auctions:
 - a user can create an auction by either making a request to the moderators or having a rating over 75%
@@ -97,6 +93,41 @@ Auctions:
 Donation:
 - a user can create a donation post for any cause
 - the donation post must have a button which, when pressed, will open the website of the charity	
+- any user can make a request to the moderators to be able to request donations
+- any user can donate
+- users with a rating over 75% do not need to make requests to the moderators to request donations
 	
-	
+
+Interest and Uninterest:
+- a user that wants to buy the product can choose to be interested or uninterested in a product
+- more interest means a post is higher up in the feed
+- less interest pushes it down
+
+Promote:
+- a user can decide to promote his post
+- a promoted post shows up first in the feed
+- a promoted post will lose its promotion status after 15 days
+
+Discounts:
+- a user which has had many sells can receive benefits like discounts
+- a user which has bought at 10 times can receive a discount of 10% on his next buy, 10 more buys and he gets the discount again
+- a user that has sold at least 10 times becomes a big seller for his next selling post
+- being a big seller on a post means you get free promotion for that post 
+
+Cart:
+- a user can choose items to put in his cart
+- only fixed price posts can be put in the cart
+- a seller knows if his item has been added to the cart and how many times, he does NOT know who has them
+- a user can press a button to buy every item in his cart
+
+Favorites:
+- any selling post can be favorited
+- a user can choose to favorite a post
+- a user can see all his favorited items
+- after the promoted posts, the posts which appear first are the most favorited ones
+
+
+
+
+
 	
